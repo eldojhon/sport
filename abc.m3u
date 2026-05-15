@@ -3,24 +3,24 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/18249.drm
-https://ratuvidio.adptv.workers.dev/18249.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/18249.drm
+https://tvratu.my.id/vid/18249.mpd
  
 #EXTINF:-1 group-title="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Toyota_thailand_openlogo.svg",TOYOTA THAILAND OPEN 2026 - COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/18250.drm
-https://ratuvidio.adptv.workers.dev/18250.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/18250.drm
+https://tvratu.my.id/vid/18250.mpd
  
 #EXTINF:-1 group-title="Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Toyota_thailand_openlogo.svg",TOYOTA THAILAND OPEN 2026 - COURT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/18252.drm
-https://ratuvidio.adptv.workers.dev/18252.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/18252.drm
+https://tvratu.my.id/vid/18252.mpd
 
 ############################################################################################################
  
@@ -37,8 +37,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/6299.drm
-https://ratuvidio.adptv.workers.dev/6299.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/6299.drm
+https://tvratu.my.id/vid/6299.mpd
  
 #EXTINF:-1 group-title="JADWAL 15/05" tvg-logo="https://static.flashscore.com/res/image/data/xGkOqFDa-SM1BJgq4-vPm0hQMN.png",01:00 WIB GIRONA VS REAL SOCIEDAD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -53,8 +53,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/6317.drm
-https://ratuvidio.adptv.workers.dev/6317.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/6317.drm
+https://tvratu.my.id/vid/6317.mpd
  
 #EXTINF:-1 group-title="JADWAL 15/05" tvg-logo="https://static.flashscore.com/res/image/data/A7kHoxZA-YwszbDM9-ttfpEDUq.png",02:30 WIB REAL MADRID VS OVIEDO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -69,24 +69,24 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/6299.drm
-https://ratuvidio.adptv.workers.dev/6299.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/6299.drm
+https://tvratu.my.id/vid/6299.mpd
  
 #EXTINF:-1 group-title="JADWAL 15/05" tvg-logo="https://static.flashscore.com/res/image/data/GCMr4XCr-jquW9MP9-K4Cn0tro.png",15:30 WIB SEMEN PADANG VS PERSEBAYA [VDO]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19354.drm
-https://ratuvidio.adptv.workers.dev/19354.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19354.drm
+https://tvratu.my.id/vid/19354.mpd
  
 #EXTINF:-1 group-title="JADWAL 15/05" tvg-logo="https://static.flashscore.com/res/image/data/YTyuYOfM-U3Suqtbs-MZqMwcjh.png",19:00 WIB PSBS BIAK VS AREMA [VDO]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19354.drm
-https://ratuvidio.adptv.workers.dev/19354.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19354.drm
+https://tvratu.my.id/vid/19354.mpd
 
 ############################################################################################################
 
@@ -95,32 +95,32 @@ https://ratuvidio.adptv.workers.dev/19354.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/9182.drm
-https://ratuvidio.adptv.workers.dev/9182.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/9182.drm
+https://tvratu.my.id/vid/9182.mpd
  
 #EXTINF:-1 group-title="JADWAL 16/05" tvg-logo="https://static.flashscore.com/res/image/data/IgemUgg5-YR5kERLh-fudV7NWp.png",15:30 WIB PERSIK KEDIRI VS PERSIJA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19354.drm
-https://ratuvidio.adptv.workers.dev/19354.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19354.drm
+https://tvratu.my.id/vid/19354.mpd
  
 #EXTINF:-1 group-title="JADWAL 16/05" tvg-logo="https://static.flashscore.com/res/image/data/CzyPAuZA-KbDWUIO9-Mw6HAN8i.png",19:00 WIB MALUT UNITED VS PERSITA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19354.drm
-https://ratuvidio.adptv.workers.dev/19354.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19354.drm
+https://tvratu.my.id/vid/19354.mpd
  
 #EXTINF:-1 group-title="JADWAL 16/05" tvg-logo="https://static.flashscore.com/res/image/data/j3lsUVCa-S0IZGH2F-fJYKj2Xi.png",19:00 WIB PERSIS VS DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19353.drm
-https://ratuvidio.adptv.workers.dev/19353.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19353.drm
+https://tvratu.my.id/vid/19353.mpd
  
 #EXTINF:-1 group-title="JADWAL 16/05" tvg-logo="https://static.flashscore.com/res/image/data/rDRx1VXg-8jVW4jtm-84sATBUR.png",20:30 WIB BORUSSIA MÖNCHENGLADBACH VS HOFFENHEIM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -145,16 +145,16 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/20249.drm
-https://ratuvidio.adptv.workers.dev/20249.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/20249.drm
+https://tvratu.my.id/vid/20249.mpd
  
 #EXTINF:-1 group-title="JADWAL 16/05" tvg-logo="https://static.flashscore.com/res/image/data/2sDzOhWg-OnC8uvSQ-MFVHqOh7.png",21:30 WIB PORTO VS SANTA CLARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/20502.drm
-https://ratuvidio.adptv.workers.dev/20502.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/20502.drm
+https://tvratu.my.id/vid/20502.mpd
  
 #EXTINF:-1 group-title="JADWAL 16/05" tvg-logo="https://static.flashscore.com/res/image/data/8YrWgbEG-YccOaBN9-hjWUhSZq.png",23:05 WIB AL HILAL VS NEOM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -168,8 +168,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/17140.drm
-https://ratuvidio.adptv.workers.dev/17140.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/17140.drm
+https://tvratu.my.id/vid/17140.mpd
  
 ############################################################################################################
  
@@ -178,16 +178,16 @@ https://ratuvidio.adptv.workers.dev/17140.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/18739.drm
-https://ratuvidio.adptv.workers.dev/18739.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/18739.drm
+https://tvratu.my.id/vid/18739.mpd
 
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/tInTP6zB-CKt7HfM9-K6ujqDls.png",15:30 WIB BALI UNITED VS BHAYANGKARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19354.drm
-https://ratuvidio.adptv.workers.dev/19354.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19354.drm
+https://tvratu.my.id/vid/19354.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MotoGP_logo_%282024%29.svg/960px-MotoGP_logo_%282024%29.svg.png",16:00 WIB MOTOGP GRAND PRIX OF CATALUNYA 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -201,119 +201,119 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/17140.drm
-https://ratuvidio.adptv.workers.dev/17140.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/17140.drm
+https://tvratu.my.id/vid/17140.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/QPgsexZA-b34oZxtm-EaFfQ9z6.png",17:30 WIB ROMA VS LAZIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19404.drm
-https://ratuvidio.adptv.workers.dev/19404.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19404.drm
+https://tvratu.my.id/vid/19404.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/Cf5pQNyS-tSP6DURQ-hpmw8K1h.png",17:30 WIB COMO VS PARMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/21398.drm
-https://ratuvidio.adptv.workers.dev/21398.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/21398.drm
+https://tvratu.my.id/vid/21398.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/WznpqVfM-x2i75Z0s-KtCfnbWp.png",17:30 WIB GENOA VS MILAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/17938.drm
-https://ratuvidio.adptv.workers.dev/17938.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/17938.drm
+https://tvratu.my.id/vid/17938.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/GKF3dlf5-4r9YcdPQ-0nz5yHcE.png",17:30 WIB JUVENTUS VS FIORENTINA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/17939.drm
-https://ratuvidio.adptv.workers.dev/17939.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/17939.drm
+https://tvratu.my.id/vid/17939.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/CzC5XtGG-E9JMr2PQ-Stb48WaO.png",17:30 WIB PISA VS NAPOLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/21399.drm
-https://ratuvidio.adptv.workers.dev/21399.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/21399.drm
+https://tvratu.my.id/vid/21399.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/nwSRlyWg-IFvYvCMh-h2pPXz3k.png",18:30 WIB MANCHESTER UNITED VS NOTTINGHAM FOREST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19536.drm
-https://ratuvidio.adptv.workers.dev/19536.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19536.drm
+https://tvratu.my.id/vid/19536.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/tjn8RjEa-ShWyK20b-SKnIGW8l.png",19:00 WIB PERSIJAP VS BORNEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19353.drm
-https://ratuvidio.adptv.workers.dev/19353.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19353.drm
+https://tvratu.my.id/vid/19353.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/825RIjg5-U9AVXMM9-jNkiROW3.png",19:00 WIB PSM VS PERSIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19354.drm
-https://ratuvidio.adptv.workers.dev/19354.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19354.drm
+https://tvratu.my.id/vid/19354.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/IqGCCOEG-Qa3qHr1s-llzIXtHf.png",19:00 WIB PSIM JOGJA VS MADURA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19385.drm
-https://ratuvidio.adptv.workers.dev/19385.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19385.drm
+https://tvratu.my.id/vid/19385.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/lxz64qDa-buN7YUM9-O8c8nWOb.png",20:00 WIB INTER VS VERONA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19404.drm
-https://ratuvidio.adptv.workers.dev/19404.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19404.drm
+https://tvratu.my.id/vid/19404.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/E7TgUZkl-zZtDH7Mh-ABWS7fBq.png",21:00 WIB WOLVES VS FULHAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19375.drm
-https://ratuvidio.adptv.workers.dev/19375.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19375.drm
+https://tvratu.my.id/vid/19375.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/bBj3NWfM-tMjaWeM9-drybTCiH.png",21:00 WIB BRENTFORD VS CRYSTAL PALACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/9183.drm
-https://ratuvidio.adptv.workers.dev/9183.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/9183.drm
+https://tvratu.my.id/vid/9183.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/EwJqZUZA-ShmnNGqL-0d34NJCO.png",21:00 WIB EVERTON VS SUNDERLAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19536.drm
-https://ratuvidio.adptv.workers.dev/19536.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19536.drm
+https://tvratu.my.id/vid/19536.mpd
  
 #EXTINF:-1 group-title="JADWAL 17/05" tvg-logo="https://static.flashscore.com/res/image/data/xASUZ6il-joxzrp2b-rg6usZns.png",23:00 WIB ATALANTA VS BOLOGNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/19404.drm
-https://ratuvidio.adptv.workers.dev/19404.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/19404.drm
+https://tvratu.my.id/vid/19404.mpd
 
 #EXTM3U
