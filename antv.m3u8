@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-origin=http://kilas7.com
 #EXTVLCOPT:http-referrer=http://kilas7.com/
 #EXT-X-STREAM-INF:BANDWIDTH=1500000
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
