@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1544100
+#KODIPROP:inputstream=inputstream.adaptive
+#EXT-X-TARGETDURATION:10
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
