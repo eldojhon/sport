@@ -1,3 +1,8 @@
+RCTI | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/UkNUSS1DaGFubmVs/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+GTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/R1RWLUNIQU5ORUw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+MNCTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/TU5DVFY/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+TRANS 7 | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/VFJBTlM3LW15/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+TRANS TV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/VHJhbnNUVg/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 TVRI | https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8 |
 TVRI SPORT | https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8 |
 INDOSIAR | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SW5kb3NpYXI/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
@@ -5,8 +10,10 @@ SCTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbc
 ANTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/QU5UVg/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 METRO TV | https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8 |
 TVONE | https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8 |
+CNN INDONESIA | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q05OaS1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+CNBC INDONESIA | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 BTV | https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8 |
-GARUDA TV | https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8 |
+GARUDA TV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/R2FydWRhIFRW/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 INDONESIANA | https://tvstreamcast.com/indonesiana.m3u8 |
 JAKTV | https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8 |
 KOMPAS TV | https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8 |
@@ -21,3 +28,16 @@ DAAI TV | https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8 |
 DENS FOOD CHANNEL | https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8 |
 DENS SHOWBIZ | https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8 |
 MUSIC INFORMATION CHANNEL | https://mic.siar.us/mic/live/playlist.m3u8 |
+INSERT | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/IW5zZXJ0/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+HBO | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPLW15/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+HBO SIGNATURE | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+HBO FAMILY | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPLUZhbWlseS1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+HBO HITS | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPIEhpdHM/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+CINEMAX | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2luZW1heA/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+AXN | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/QVhOLW15/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+CINEMA WORLD | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2luZW1hIFdvcmxk/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+CELESTIAL MOVIES | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+THRILL | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/VGhyaWxs/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+TVN | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/dHZOQ2hhbm5lbA/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+TVN MOVIES | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/VFZOIE1vdmllcw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+ARIRANG | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/QXJpcmFuZw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
