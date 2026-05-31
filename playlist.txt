@@ -8,21 +8,21 @@ TVRI SPORT | https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8 |
 INDOSIAR | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SW5kb3NpYXI/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 SCTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/U0NUVi1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 ANTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/QU5UVg/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-METRO TV | https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8 |
-TVONE | https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8 |
+METRO TV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/TWV0cm9UVg/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+TVONE | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/VFZPTkU/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 CNN INDONESIA | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q05OaS1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 CNBC INDONESIA | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-BTV | https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8 |
+BTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/R1RWLUNIQU5ORUw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 GARUDA TV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/R2FydWRhIFRW/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 INDONESIANA | https://tvstreamcast.com/indonesiana.m3u8 |
-JAKTV | https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8 |
-KOMPAS TV | https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8 |
+JAKTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+KOMPAS TV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/S29tcGFzIFRW/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 MAGNA TV | https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8 |
-MDTV | https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8 |
+MDTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/TURUVg/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 MOJI | https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8 |
 NUSANTARA TV | https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8 |
 RRI NET | https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8 |
-RTV | https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8 |
+RTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/cnR2IENobmw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 CHANNEL JOWO | https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8 |
 DAAI TV | https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8 |
 DENS FOOD CHANNEL | https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8 |
