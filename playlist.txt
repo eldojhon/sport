@@ -1,64 +1,23 @@
-ANTV | https://cors.globetv.app/http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-BERITA SATU | https://cors.globetv.app/http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
-CNBC INDONESIA | https://cors.nias.workers.dev/?url=http://103.58.160.157:8278/720-CNBCIND/playlist.m3u8
-CNN INDONESIA | https://gusit.vercel.app/api?url=http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
-GTV | http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
-INDOSIAR | http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
-KOMPAS TV | http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
-METRO TV | http://103.58.160.157:8278/720-METROTV/playlist.m3u8
-MNCTV | http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
-MDTV | http://103.58.160.157:8278/720-NET/playlist.m3u8
-RTV | http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
-RCTI | http://103.58.160.157:8278/720-RCTI/playlist.m3u8
-SCTV | http://103.58.160.157:8278/720-SCTV/playlist.m3u8
-TRANS 7 | http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
-TRANS TV | http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
-TVONE | http://103.58.160.157:8278/720-TVONE/playlist.m3u8
-TVRI | http://103.58.160.157:8278/720-TVRI/playlist.m3u8
-TVRI SPORT | http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-INSERT | http://103.58.160.157:8278/720-INSERT/playlist.m3u8
-JAKTV | http://103.58.160.157:8278/720-JAKTV/playlist.m3u8
-MUSIK INDONESIA | http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
-AXN | http://103.58.160.157:8278/720-AXN/playlist.m3u8
-CELESTIAL MOVIES | http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
-CINEMAX | http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
-CINEMA WORLD | http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
-HBO | http://103.58.160.157:8278/720-HBO/playlist.m3u8
-HBO FAMILY | http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
-HBO HITS | http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
-HBO SIGNATURE | http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8
-THRILL | http://103.58.160.157:8278/720-THRILL/playlist.m3u8
-TVN | http://103.58.160.157:8278/720-TVN/playlist.m3u8
-TVN MOVIES | http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
-
-ABC AUSTRALIA | http://103.58.160.157:8278/720-ABCAUSTRALIA/playlist.m3u8
-AL JAZEERA | http://103.58.160.157:8278/720-ALJAZEERA/playlist.m3u8
-ARIRANG | http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
-BALI TV | http://103.58.160.157:8278/720-BALITV/playlist.m3u8
-CCTV4 | http://103.58.160.157:8278/720-CCTV4/playlist.m3u8
-CGTN | http://103.58.160.157:8278/720-CGTN/playlist.m3u8
-CGTN DOCUMENTARY | http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
-CHANNEL NEWS ASIA | http://103.58.160.157:8278/720-CNA/playlist.m3u8
-COOKING TV | http://103.58.160.157:8278/720-COOKINGTV/playlist.m3u8
-DAAI TV | http://103.58.160.157:8278/720-DAAITV/playlist.m3u8
-DW ENGLISH | http://103.58.160.157:8278/720-DWENGLISH/playlist.m3u8
-EAT N GO | http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
-EURONEWS | http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
-FASHION TV | http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
-FIGHT SPORTS | http://103.58.160.157:8278/720-FIGHTSPORTS/playlist.m3u8
-FRANCE24 | http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
-GAMING TV | http://103.58.160.157:8278/720-GAMINGTV/playlist.m3u8
-GOLF | http://103.58.160.157:8278/720-GOLF/playlist.m3u8
-HUNAN | http://103.58.160.157:8278/720-HUNAN/playlist.m3u8
-KBS WORLD | http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
-KNOWLEDGE | http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
-NHK PREMIUM | http://103.58.160.157:8278/720-NHKPREMIUM/playlist.m3u8
-NHK WORLD | http://103.58.160.157:8278/720-NHKWORLD/playlist.m3u8
-ONE TV | http://103.58.160.157:8278/720-ONETV/playlist.m3u8
-RUSIA TODAY | http://103.58.160.157:8278/720-RUSIATODAY/playlist.m3u8
-SPEED TV | http://103.58.160.157:8278/720-SPEEDTV/playlist.m3u8
-SPORTS TV | http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
-TV5 MONDE | http://103.58.160.157:8278/720-TV5MONDE/playlist.m3u8
-WARNER TV | http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
-WION | http://103.58.160.157:8278/720-WION/playlist.m3u8
-XINGKONG | http://103.58.160.157:8278/720-XINGKONG/playlist.m3u8
+TVRI | https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8 |
+TVRI SPORT | https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8 |
+INDOSIAR | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SW5kb3NpYXI/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+SCTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/U0NUVi1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+ANTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/QU5UVg/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
+METRO TV | https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8 |
+TVONE | https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8 |
+BTV | https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8 |
+GARUDA TV | https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8 |
+INDONESIANA | https://tvstreamcast.com/indonesiana.m3u8 |
+JAKTV | https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8 |
+KOMPAS TV | https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8 |
+MAGNA TV | https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8 |
+MDTV | https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8 |
+MOJI | https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8 |
+NUSANTARA TV | https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8 |
+RRI NET | https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8 |
+RTV | https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8 |
+CHANNEL JOWO | https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8 |
+DAAI TV | https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8 |
+DENS FOOD CHANNEL | https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8 |
+DENS SHOWBIZ | https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8 |
+MUSIC INFORMATION CHANNEL | https://mic.siar.us/mic/live/playlist.m3u8 |
