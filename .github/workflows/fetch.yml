@@ -1,0 +1,27 @@
+name: Fetch Remote PHP Content
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch URL content
+        run: |
+          echo "Downloading content..."
+          curl -L "https://aspaltvpasti.top/xxx/merah.php" -o 1780301056.txt
+
+      - name: Show preview
+        run: |
+          echo "===== CONTENT PREVIEW ====="
+          head -n 50 1780301056.txt
+
+      - name: Upload result as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetched-content
+          path: 1780301056.txt
