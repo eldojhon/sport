@@ -29,12 +29,6 @@ DENS FOOD CHANNEL | https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8 |
 DENS SHOWBIZ | https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8 |
 MUSIC INFORMATION CHANNEL | https://mic.siar.us/mic/live/playlist.m3u8 |
 INSERT | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/IW5zZXJ0/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-HBO | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPLW15/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-HBO SIGNATURE | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-HBO FAMILY | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPLUZhbWlseS1teQ/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-HBO HITS | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/SEJPIEhpdHM/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-CINEMAX | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2luZW1heA/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
-AXN | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/QVhOLW15/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 CINEMA WORLD | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2luZW1hIFdvcmxk/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 CELESTIAL MOVIES | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 THRILL | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/VGhyaWxs/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
