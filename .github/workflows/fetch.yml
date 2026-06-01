@@ -7,22 +7,28 @@ permissions:
   contents: write
 
 jobs:
-  save-source:
+  fetch-via-codebeautify:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch page source
+      - name: Fetch source via Code Beautify
         run: |
-          # gunakan Python requests untuk meniru browser
           python3 - << 'PY'
           import requests
-          url = "https://aspaltvpasti.top/xxx/merah.php"
-          headers = {"User-Agent": "Mozilla/5.0"}
-          r = requests.get(url, headers=headers)
+
+          # endpoint publik CodeBeautify yang menerima URL dan mengembalikan source
+          # biasanya diakses via form: https://codebeautify.org/source-code-viewer
+          # Kita harus meniru request POST form mereka
+          target_url = "https://aspaltvpasti.top/xxx/merah.php"
+          form_data = {"url": target_url}
+
+          # lakukan POST request
+          r = requests.post("https://codebeautify.org/source-code-viewer", data=form_data)
           r.raise_for_status()
+
+          # simpan hasil ke file
           with open("1780301056.txt", "w", encoding="utf-8") as f:
               f.write(r.text)
           PY
@@ -33,5 +39,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add 1780301056.txt
           git diff --cached --quiet && exit 0
-          git commit -m "Update 1780301056.txt"
+          git commit -m "Update 1780301056.txt via CodeBeautify"
           git push
