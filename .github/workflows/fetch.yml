@@ -7,37 +7,54 @@ permissions:
   contents: write
 
 jobs:
-  fetch-via-codebeautify:
+  save-html:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Fetch source via Code Beautify
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Playwright
         run: |
-          python3 - << 'PY'
-          import requests
+          npm init -y
+          npm install playwright
+          npx playwright install --with-deps chromium
 
-          # endpoint publik CodeBeautify yang menerima URL dan mengembalikan source
-          # biasanya diakses via form: https://codebeautify.org/source-code-viewer
-          # Kita harus meniru request POST form mereka
-          target_url = "https://aspaltvpasti.top/xxx/merah.php"
-          form_data = {"url": target_url}
+      - name: Capture HTML
+        run: |
+          cat > capture.js << 'EOF'
+          const { chromium } = require('playwright');
+          const fs = require('fs');
 
-          # lakukan POST request
-          r = requests.post("https://codebeautify.org/source-code-viewer", data=form_data)
-          r.raise_for_status()
+          (async () => {
+            const browser = await chromium.launch({ headless: true });
+            const page = await browser.newPage();
 
-          # simpan hasil ke file
-          with open("1780301056.txt", "w", encoding="utf-8") as f:
-              f.write(r.text)
-          PY
+            await page.goto('https://aspaltvpasti.top/xxx/merah.php', {
+              waitUntil: 'networkidle'
+            });
 
-      - name: Commit file
+            const html = await page.content();
+
+            fs.writeFileSync('1780301056.txt', html, 'utf8');
+
+            await browser.close();
+          })();
+          EOF
+
+          node capture.js
+
+      - name: Commit result
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add 1780301056.txt
-          git diff --cached --quiet && exit 0
-          git commit -m "Update 1780301056.txt via CodeBeautify"
-          git push
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update 1780301056.txt"
+            git push
+          fi
