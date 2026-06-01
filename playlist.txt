@@ -1,5 +1,3 @@
-20:00 WIB Indonesia vs Myanmar | https://live05.msdht.app/live/19919577.m3u8 |
-20:00 WIB Indonesia vs Myanmar | https://stream.yultech.online/hls/live/sd-6Mwe5TJFoNoqsT27VF/index.m3u8 |
 RCTI | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/UkNUSS1DaGFubmVs/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 GTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/R1RWLUNIQU5ORUw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 MNCTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/TU5DVFY/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
