@@ -2,26 +2,30 @@ name: Fetch
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  fetch:
+  save:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Fetch URL content
-        run: |
-          echo "Downloading content..."
-          curl -L "https://aspaltvpasti.top/xxx/merah.php" -o 1780301056.txt
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Show preview
+      - name: Download page source
         run: |
-          echo "===== CONTENT PREVIEW ====="
-          head -n 50 1780301056.txt
+          wget -qO 1780301056.txt "https://aspaltvpasti.top/xxx/merah.php"
 
-      - name: Upload result as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: fetched-content
-          path: 1780301056.txt
+      - name: Commit file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add 1780301056.txt
+
+          git diff --cached --quiet && exit 0
+
+          git commit -m "Update 1780301056.txt"
+          git push
