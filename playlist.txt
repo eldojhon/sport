@@ -1,6 +1,3 @@
-16:00 WIB Vietnam vs Timor-Leste - ASEAN U19 Boys' Bank Sumut Championship | https://cdn-global.vsc100.com/vsc/vsc-vuong-tu-neil/index.m3u8 |
-16:00 WIB Vietnam vs Timor-Leste - ASEAN U19 Boys' Bank Sumut Championship | https://stream.yultech.online/hls/live/sd-6Mwe5TJFoR1Kjvr2e9/index.m3u8 |
-20:00 WIB Indonesia vs Myanmar - ASEAN U19 Boys' Bank Sumut Championship | https://cdn1-global.vsc100.com/live/pro2/index.m3u8 |
 20:00 WIB Indonesia vs Myanmar - ASEAN U19 Boys' Bank Sumut Championship | https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd | 11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 RCTI | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/UkNUSS1DaGFubmVs/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 GTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/R1RWLUNIQU5ORUw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
