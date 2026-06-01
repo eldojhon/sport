@@ -1,4 +1,5 @@
-20:00 WIB Indonesia vs Myanmar - ASEAN U19 Boys' Bank Sumut Championship | https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd | 11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+20:00 WIB Indonesia U19 vs Myanmar U19 | https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd | 11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+20:00 WIB Indonesia U19 vs Myanmar U19 | https://stream.yultech.online/hls/live/sd-6Mwe5TJFoNoqsT27VF/index.m3u8 |
 RCTI | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/UkNUSS1DaGFubmVs/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 GTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/R1RWLUNIQU5ORUw/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
 MNCTV | https://cdnjktbpid01.transvision.co.id/riutx01-1b04ad969ab2fc0fb50d5cbfbceab1d4/dash/TU5DVFY/manifest.mpd | f3841ff1c16144f8ba1e303430a66b5a:31ac91d00bbb4437830528fb00e6be07
