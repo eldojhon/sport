@@ -1,4 +1,4 @@
-name: Fetch Remote PHP Content
+name: Fetch
 
 on:
   workflow_dispatch:
