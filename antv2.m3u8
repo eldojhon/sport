@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-origin=https://anym3u8player.com
 #EXTVLCOPT:http-referrer=https://anym3u8player.com/
-#EXT-X-STREAM-INF:BANDWIDTH=1500000
+#EXTINF:-1,
 https://cors.globetv.app/http://103.58.160.157:8278/720-ANTV/playlist.m3u8
